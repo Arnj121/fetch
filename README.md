@@ -1,6 +1,9 @@
 [https://github.com/Arnj121/fetch](https://github.com/Arnj121/fetch)
 
 ## Simple receipt api
+
+- start the server using `node server.js` command
+
 ### Available endpoints
 
 - **POST** `/receipts/process` **Accepts**: `application/json` **response**: `application/json`
